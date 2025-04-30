@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799028600034",
+    "project_id": "eggroyyal",
+    "storage_bucket": "eggroyyal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799028600034:android:9bc870d95a6e47987a12bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr-MZWFmu9mGLjw91c62ClpgzTpRqHc3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
